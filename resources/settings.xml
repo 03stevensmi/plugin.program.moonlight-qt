@@ -26,6 +26,7 @@
                             <!-- It would be better to populate this list from the system itself: /dev/dri/* -->
                             <option>card0</option>
                             <option>card1</option>
+                            <option>card2</option>
                         </options>
                     </constraints>
                     <control type="list" format="string">
@@ -45,9 +46,7 @@
                             <option>HDMI4</option>
                             <option>HDMI5</option>
                             <option>HDMI6</option>
-                            <option>composite</option>
-                            <option>composite-1</option>
-                            <option>composite=1</option>
+                            <option>Composite-1</option>
                             <option>DP1</option>
                             <option>DP2</option>
                             <option>DP3</option>
@@ -72,6 +71,7 @@
                     <constraints>
                         <options>
                             <option>-</option>
+                            <option>720x576</option>
                             <option>1280x720</option>
                             <option>1920x1080</option>
                             <option>2560x1440</option>
