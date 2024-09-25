@@ -45,6 +45,9 @@
                             <option>HDMI4</option>
                             <option>HDMI5</option>
                             <option>HDMI6</option>
+                            <option>composite</option>
+                            <option>composite-1</option>
+                            <option>composite=1</option>
                             <option>DP1</option>
                             <option>DP2</option>
                             <option>DP3</option>
